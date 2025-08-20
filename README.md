@@ -9,8 +9,7 @@ Over the past year, I have gained practical experience through **internships and
 ### Skills:
 - **SQL** (Joins, Aggregations, Subqueries, Window Functions)  
 - **Python for Data Analysis** (Pandas, NumPy, Matplotlib)  
-- **Data Cleaning & Transformation**  
-- **Exploratory Data Analysis (EDA) to uncover insights**  
+- **Data Cleaning & Transformation**
 - **Interactive Dashboards & Reporting (Power BI, DAX)**  
 - **Visualization & Storytelling with Data**  
 
