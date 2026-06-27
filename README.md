@@ -1,9 +1,9 @@
 # Myself C K Venkata Madhu Hasitha
 
-## Aspiring Data Analyst | Final-Year CSE Student | Building Expertise in Data Analysis & BI Tools
+## Aspiring Data Analyst | 2026 CSE Graduate | Building Expertise in Data Analysis & BI Tools
 
 ## About Me
-I am a final-year Computer Science Engineering student with a strong interest in **Data Analytics and Business Intelligence**.  
+I am a Computer Science Engineering graduate with a strong interest in **Data Analytics and Business Intelligence**.  
 Over the past year, I have gained practical experience through **internships and projects** where I worked on **Power BI dashboards, SQL-based analysis, and data preprocessing with Python (Pandas, NumPy)**.  
 
 ### Skills:
